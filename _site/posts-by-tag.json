@@ -1,0 +1,74 @@
+
+
+[   
+      
+  {
+  "tag" : "artificial intelligence",
+  "posts" : [
+      
+      "./AI-and-intellectual-property.html",
+      
+      "./back-to-basics.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "coding",
+  "posts" : [
+      
+      "./NewFile.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "copyright",
+  "posts" : [
+      
+      "./AI-and-intellectual-property.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "creativity",
+  "posts" : [
+      
+      "./AI-and-intellectual-property.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "machine learning",
+  "posts" : [
+      
+      "./NewFile.html",
+      
+      "./AI-and-intellectual-property.html",
+      
+      "./back-to-basics.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "neural networks",
+  "posts" : [
+      
+      "./NewFile.html",
+      
+      "./AI-and-intellectual-property.html",
+      
+      "./back-to-basics.html"
+      
+    ]
+  } 
+    
+]
