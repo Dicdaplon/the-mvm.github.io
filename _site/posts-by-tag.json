@@ -3,6 +3,30 @@
 [   
       
   {
+  "tag" : "Cours",
+  "posts" : [
+      
+      "./GammeToAccord.html",
+      
+      "./NoteEtMath.html",
+      
+      "./ListUpgradeYourPlay.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "Lesson",
+  "posts" : [
+      
+      "./ListUpgradeYourPlay.html"
+      
+    ]
+  } ,
+    
+      
+  {
   "tag" : "artificial intelligence",
   "posts" : [
       
@@ -17,6 +41,8 @@
   {
   "tag" : "coding",
   "posts" : [
+      
+      "./NewFile.html",
       
       "./NewFile.html"
       
@@ -45,8 +71,22 @@
     
       
   {
+  "tag" : "lesson",
+  "posts" : [
+      
+      "./GammeToAccord.html",
+      
+      "./NoteEtMath.html"
+      
+    ]
+  } ,
+    
+      
+  {
   "tag" : "machine learning",
   "posts" : [
+      
+      "./NewFile.html",
       
       "./NewFile.html",
       
@@ -61,6 +101,8 @@
   {
   "tag" : "neural networks",
   "posts" : [
+      
+      "./NewFile.html",
       
       "./NewFile.html",
       

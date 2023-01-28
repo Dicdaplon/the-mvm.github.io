@@ -11,6 +11,46 @@
     } ,
   
     {
+      "title"       : "Des gammes aux accords",
+      "category"    : "",
+      "tags"        : "Cours, lesson",
+      "url"         : "./GammeToAccord.html",
+      "date"        : "2022-01-25 20:32:20 +0100",
+      "description" : "Baser nos accords sur les gammes",
+      "content"     : "Des gammes aux accordsUne histoire de degréLes gammes peuvent être vues comme un ensemble de notes dont chacune transporte une intention différente.ref : article note, gammeUne gamme n’est pas un ensemble de note fixe mais plutôt une suite d’intervalle entre les notes, seul la position relative est importante.De ce fait, l’ensemble des notes d’un morceau décallé d’un ton (ref : ton)sonnera plus aigue mais aura la même fonction dans la mélodie.Alors pourquoi s’embêter avec des notes si ce qui change réelement est le référentiel de départ ?Les degréSi nous remplacions la notation Do Ré Mi Fa Sol La Si par des nombre représentant leurs place dans la gamme ? Do Ré Mi Fa Sol La SiOu plus simplement :1,2,3,4,5,6,7 dans la gamme de Do majeur.Cela vous semble couper les cheveux en quatre ?Mais cela prend tout son sens sur une guitare.Un instrument relatifref : image de la transposition d’une gammeIl est pratique sur une guitare de raisonner en terme de degré et non de note.Ainsi en décallant le départ de ma gamme sur le manche, je peux obtenir rapidement une grille de lecture et d’écriture sur le morceau.Sans même connaitre exactement les notes joué mais seulement le point de départ de ma gamme.Des notes aux accordsDe la même façon, il est aisé de déduire les accord possible sur cette grille.Les accords d’une musique (sauf exception) sont le plus souvent composé des notes de la gamme sous jacente.et si il y a 7 degré il y a 7 fondamentale possible.Pour la gamme de Do majeur :Do Majeur Do Mi SolRé Majeur Mi mineur Fa MajeurLa mineurSiOn voit bien que si on essaie de placer un Do# Majeur ou bien un Fa mineur :certaines notes seront hors gamme.Ainsi en trouvant la gamme, nous avons non seulement isoler les notes jouables mais aussi réduit à 7 accords les possibilités.Et ainsi de suiteCette règle s’applique aussi aux variantes d’accord, 7 ème, 6 ème, sus2, sus 4… etc vous pouvez vous consituer un petit ensemble d’accord autorisé.en voici quelques uns non exaustif :ref : accord et positionEt c’est le drameOui mais la musique ce n’est pas un ensemble de règles figé, se limiter aux notes justes c’est un peu faux non ?Alors oui, si vous jouez Jazz, blues, funk, ou autre vous sortirez de ces règles qu’il s’agisse de notes ou d’accords.Mais est-ce vraiment le cas ?Lorsque vous jouer une blues note qui est hors gamme classique.C’est entorse à la gamme se situera toujours au même endroit de vos degré relatif et aura donc le même impact…bref même vos exception bougent en même temps que la gamme.Ainsi, si s’extraire du cadre et important et nécessaire en musique.Le cadre vous accompagne tout de même et vous sert de référence.à vos manches !"
+    } ,
+  
+    {
+      "title"       : "Note et matiques",
+      "category"    : "",
+      "tags"        : "Cours, lesson",
+      "url"         : "./NoteEtMath.html",
+      "date"        : "2022-01-25 20:32:20 +0100",
+      "description" : "Que ce cache il derrière une note ?",
+      "content"     : "Des notes aux mathNous avons ici parler de la relativité des notes, mais seulement en surface.Je vous propose ici une analyse un peu plus poussé du sujet.Lorsque l’on parle du La, la réalité physique se cachant derrière est une onde résultant d’une variation de pression : $f(t) = sin(502\\pit) $ En négligant des aspects purements mathématiques (le facteur $2\\pi$ ) On peux considérerCycle des quintes, diviseur, périodicité :référentiel du Lale LA originel !! vraiment ?La quinte du loupaccord, tierce et dissonance"
+    } ,
+  
+    {
+      "title"       : "5 façon d&#39;améliorer votre jeu",
+      "category"    : "",
+      "tags"        : "Cours, Lesson",
+      "url"         : "./ListUpgradeYourPlay.html",
+      "date"        : "2022-01-25 20:32:20 +0100",
+      "description" : "Bloqué dans votre progression ? Voici quelques astuces",
+      "content"     : "trucÇa tourne en rond,Vous avez beau frotter votre manche de pleins de façons, il vous semble étrangement familier et ennuyeux.Peut être que vous n’avez pas la bonne approche.Jouer en Jam !Évidement, on a tous notre instinct de taupe qui nous dis qu’on peut creuser notre trou tout seul.On s’enferme et on travaille, pas besoin d’aller s’embêter.En plus c’est une perte de temps.Les gens, l’organisation, les déplacements, les gens… alors qu’on peut utiliser ce temps pour s’entraîner plus longtemps !Regarder des tutoriels et des cours…Oui oui…C’est des conneries, allez jouer avec des gens.La mise en situation vaut tout les tuto du monde.La question n’est pas de savoir ce que les gens ou les jams ont à vous apprendre.Mais est-ce que vous être sûr d’avoir vraiment cerné les points que vous avez à travailler ?En plus pourquoi croyez vous que les gens sont prêt à payer un abonnement à la salle alors qu’ils pourraient très bien faire ça seul ?Parce qu’ils sont lucide et auront de beaux mollet cet été.Sa guitare à porté de brasPasser de l’admiration à la décortiquationBlablablaPoum tchacLe soucis de la grande majorité des guitariste est la rythmique.Pas simplement la justesse rytmique, mais la complexité et la compréhension.Apprendre à jouer de nouvelle gamme de plus en plus vite, c’est bien.Mais ça ne rend pas vos 4 temps plus groovy.La base de la musique sera toujours là rythmique.Faites des beats, jouez moins de notes, apprenez à clapper des rythmique spécifiques, prenez des cours avec un batteur.faire une pauseParfois, rien n’y fait.Tout les guitaristes connaissaient ca."
+    } ,
+  
+    {
+      "title"       : "Lancement de LoloupProd !",
+      "category"    : "",
+      "tags"        : "machine learning, coding, neural networks",
+      "url"         : "./NewFile.html",
+      "date"        : "2022-01-25 20:32:20 +0100",
+      "description" : "Site en chantier",
+      "content"     : "Lancement de Loloup prodLoloup prod c’est quoi ?Bah grand chose pour l’instant, mais à force de crier à la lune elle finira bien par descendre ?En attendant, c’est une base spatiale pour louveteaux spéciaux.Principalement basée sur la musique, l’improvisation et la création au sens large.Je partagerai ici cours, production, articles de moi mais pas seulement."
+    } ,
+  
+    {
       "title"       : "L&#39;improvisation une question de talent ?",
       "category"    : "opinion",
       "tags"        : "copyright, creativity, neural networks, machine learning, artificial intelligence",
