@@ -13,7 +13,7 @@ mathjax: yes
 ---
 
 ## Devil blues
-S'amuser avec la caméra :)
+Petit blues, une occasion de ressortir l'harmonica et le Bottle Neck.
 
 <body>
 <p class="Youtube">

@@ -1,27 +1,74 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-11T20:57:27+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Minimum Viable Model</title><subtitle>Artificial Intelligence trends and concepts made easy.</subtitle><author><name>Chafik Lekouara</name></author><entry><title type="html">Cover - KrutB</title><link href="http://localhost:4000/CoverKrutb.html" rel="alternate" type="text/html" title="Cover - KrutB" /><published>2023-01-28T20:32:20+01:00</published><updated>2023-01-28T20:32:20+01:00</updated><id>http://localhost:4000/CoverKrutb</id><content type="html" xml:base="http://localhost:4000/CoverKrutb.html"><![CDATA[<h2 id="cover-de-krutb">Cover de KrutB</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-11T23:55:11+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">LoloupProd</title><subtitle>Make music go Wohouuuu</subtitle><author><name>Chafik Lekouara</name></author><entry><title type="html">Cover - KrutB</title><link href="http://localhost:4000/CoverKrutb.html" rel="alternate" type="text/html" title="Cover - KrutB" /><published>2023-01-28T20:32:20+01:00</published><updated>2023-01-28T20:32:20+01:00</updated><id>http://localhost:4000/CoverKrutb</id><content type="html" xml:base="http://localhost:4000/CoverKrutb.html"><![CDATA[<h2 id="cover-de-krutb">Cover de KrutB</h2>
 <p>Petite collaboration pour noël…</p>
 
 <body>
 <p class="Youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wIYfi7gW60k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 </p>
-  </body>]]></content><author><name>Chafik Lekouara</name></author><category term="cover" /><category term="music" /><category term="vocal" /><category term="news" /><summary type="html"><![CDATA[Une superbe collab]]></summary></entry><entry><title type="html">ImproSession - Keep Walking</title><link href="http://localhost:4000/MusicKeepWalking.html" rel="alternate" type="text/html" title="ImproSession - Keep Walking" /><published>2023-01-06T20:32:20+01:00</published><updated>2023-01-06T20:32:20+01:00</updated><id>http://localhost:4000/MusicKeepWalking</id><content type="html" xml:base="http://localhost:4000/MusicKeepWalking.html"><![CDATA[<h2 id="devil-blues">Devil blues</h2>
-<p>S’amuser avec la caméra :)</p>
+  </body>]]></content><author><name>Chafik Lekouara</name></author><category term="music" /><summary type="html"><![CDATA[Une superbe collab]]></summary></entry><entry><title type="html">Note et matiques</title><link href="http://localhost:4000/NoteEtMath.html" rel="alternate" type="text/html" title="Note et matiques" /><published>2023-01-16T20:32:20+01:00</published><updated>2023-01-16T20:32:20+01:00</updated><id>http://localhost:4000/NoteEtMath</id><content type="html" xml:base="http://localhost:4000/NoteEtMath.html"><![CDATA[<h2 id="des-notes-aux-math">Des notes aux math</h2>
+<p>Je vous propose de parler un peu physique.
+Déjà parce que c’est cool, ensuite parce que j’ai envie, et surtout parce que c’est moi qui décide.</p>
 
-<body>
-<p class="Youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1WgpEe_BhPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-</p>
-  </body>]]></content><author><name>Chafik Lekouara</name></author><category term="music" /><summary type="html"><![CDATA[Devil blues]]></summary></entry><entry><title type="html">5 façon d’améliorer votre jeu</title><link href="http://localhost:4000/ListUpgradeYourPlay.html" rel="alternate" type="text/html" title="5 façon d’améliorer votre jeu" /><published>2022-01-14T20:32:20+01:00</published><updated>2022-01-14T20:32:20+01:00</updated><id>http://localhost:4000/ListUpgradeYourPlay</id><content type="html" xml:base="http://localhost:4000/ListUpgradeYourPlay.html"><![CDATA[<h2 id="améliorer-son-jeu-au-quotidien-">Améliorer son jeu au quotidien ?</h2>
-<p>Ça tourne en rond,
-Vous avez beau frotter votre manche de pleins de façons, il vous semble étrangement familier et ennuyeux.</p>
+<p>Alors on parle souvent de note de musique :
+Do, Ré, Mi … blabla
+Ok mais physiquement c’est quoi ?
+C’est la variation d’une la pression sonore dans le temps.
+Une onde acoustique quoi.</p>
 
-<p>Peut être que vous n’avez pas la bonne approche.</p>
+<p>La vitesse à laquelle cette pression varie définis sa fréqence.
+Il ne s’agit donc pas de la puissance de la variation mais de la vitesse de variation.</p>
+
+<p>Ce truc là :</p>
+
+<p>$son(t)=\sin(2*\pi *f * t)$
+Cette petite équation définis à chaque instant la pression en fonction du temps et pour une fréquence données.
+Le graphique résultant de ca est celui-ci.</p>
+
+<p>Mais cette équation permet de donner la puissance de la pression en fonction du temps…
+Cela ne donne pas réellement d’informaiton sur la fréquence.</p>
+
+<p>Ce que nous voulons dans le son, c’est parler en fréquence, car c’est ce que nous manipulons avec nos instruments.</p>
+
+<p>$son(f)=?$</p>
+
+<p>Je vous passe les détails mais nous employons pour cela l’outil mathématique qu’est la transformé de fourier.</p>
+
+<p>$\int_-\infty^\infty \mathrm{e}^{-x}\,\mathrm{d}x$
+Ici</p>
+
+<p>L’important ici ce n’est pas les math, mais ce que cela représente.
+Si vous avez déjà touché un Equalizer ou observé certaines visualtion du son (sur une chaîne FM ou un lecteur audio diver).</p>
+
+<p>Vous avez déjà du voir ca.</p>
+
+<p>L’important est de comprendre quel question nous posons ici :
+Quel fréquence est contenue dans un signal ?
+Autrement dit, quelle est la vitesse de variation par seconde ce signal ?</p>
+
+<p>Ces détous n’ont qu’un seul but, vous montrer que la question est plus complexe qu’il n’y parrait.
+Cela va amener à beaucoup de difficultées et ambiguité dans l’analyse du son.</p>
+
+<p>Mais beaucoup de ces ambuiguité peuvent être résolues par une bonne compréhension du phénomène initial.</p>
+
+<h2 id="et-le-la-là-dedans-">et le LA là dedans ?</h2>
+
+<p>Ok, revenons aux notes.
+Nous avons l’habitude de demander la LA en musique.
+C’est choix arbitraire d’une référence pour accorder nos instruments</p>
+
+<h2 id="nous-ne-sommes-pas-timbré">Nous ne sommes pas timbré…</h2>
+
+<h2 id="ce-qui-est-fondamental">Ce qui est fondamental</h2>]]></content><author><name>Chafik Lekouara</name></author><category term="science" /><summary type="html"><![CDATA[Que ce cache il derrière une note ?]]></summary></entry><entry><title type="html">5 façon d’améliorer votre jeu</title><link href="http://localhost:4000/ListUpgradeYourPlay.html" rel="alternate" type="text/html" title="5 façon d’améliorer votre jeu" /><published>2023-01-08T20:32:20+01:00</published><updated>2023-01-08T20:32:20+01:00</updated><id>http://localhost:4000/ListUpgradeYourPlay</id><content type="html" xml:base="http://localhost:4000/ListUpgradeYourPlay.html"><![CDATA[<h2 id="améliorer-son-jeu-au-quotidien-">Améliorer son jeu au quotidien ?</h2>
+<p>Ça tourne en rond,</p>
+
+<p><img src="../assets/img/posts/FiveWayUpgrade/goingInCircle.jpg" alt="isolated" width="500" /></p>
+
+<p>à force de frotter votre manche, vous vous demandez si vous n’avez pas atteint une forme de stérilité acoustique.
+Peut être que vous n’avez pas la bonne approche.</p>
 
 <h2 id="jouer-en-jam-">Jouer en Jam !</h2>
 
-<p>Évidement, on a tous notre instinct de taupe qui nous dis qu’on peut creuser notre trou tout seul.
-On s’enferme et on travaille, pas besoin d’aller s’embêter.</p>
+<p>Évidement, on a tous notre instinct de taupe qui nous dis qu’on peut creuser notre trou tous seul.</p>
 
 <p>En plus c’est une perte de temps.
 Les gens, l’organisation, les déplacements, les gens… alors qu’on peut utiliser ce temps pour s’entraîner plus longtemps !
@@ -87,7 +134,14 @@ La musique reste de l’expression, si vous tournez en rond dans votre musique, 
 <p>Non, justement, peut être qu’il faut juste ne pas essayer à tout prix à écrire une nouvelle histoire lorsque vous n’avez dans le fond rien de nouveau à dire.
 Posez votre guitare quelque temps et faites d’autre choses, l’art nourrit l’art.
 Cuisinez, faites du dessins, de la photo.
-Ou simplement vivez de nouvelles choses, écoutez de nouveau sons, voyagez…</p>]]></content><author><name>Chafik Lekouara</name></author><category term="Cours" /><summary type="html"><![CDATA[Bloqué dans votre progression ? Voici quelques astuces]]></summary></entry><entry><title type="html">Des notes aux gammes</title><link href="http://localhost:4000/NoteAuxGammes.html" rel="alternate" type="text/html" title="Des notes aux gammes" /><published>2022-01-06T20:32:20+01:00</published><updated>2022-01-06T20:32:20+01:00</updated><id>http://localhost:4000/NoteAuxGammes</id><content type="html" xml:base="http://localhost:4000/NoteAuxGammes.html"><![CDATA[<h1 id="une-note-cest-quoi-">Une note c’est quoi ?</h1>
+Ou simplement vivez de nouvelles choses, écoutez de nouveau sons, voyagez…</p>]]></content><author><name>Chafik Lekouara</name></author><category term="cours" /><summary type="html"><![CDATA[Bloqué dans votre progression ? Voici quelques astuces]]></summary></entry><entry><title type="html">ImproSession - Keep Walking</title><link href="http://localhost:4000/MusicKeepWalking.html" rel="alternate" type="text/html" title="ImproSession - Keep Walking" /><published>2023-01-06T20:32:20+01:00</published><updated>2023-01-06T20:32:20+01:00</updated><id>http://localhost:4000/MusicKeepWalking</id><content type="html" xml:base="http://localhost:4000/MusicKeepWalking.html"><![CDATA[<h2 id="devil-blues">Devil blues</h2>
+<p>Petit blues, une occasion de ressortir l’harmonica et le Bottle Neck.</p>
+
+<body>
+<p class="Youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1WgpEe_BhPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+</p>
+  </body>]]></content><author><name>Chafik Lekouara</name></author><category term="music" /><summary type="html"><![CDATA[Devil blues]]></summary></entry><entry><title type="html">Des notes aux gammes</title><link href="http://localhost:4000/NoteAuxGammes.html" rel="alternate" type="text/html" title="Des notes aux gammes" /><published>2022-01-06T20:32:20+01:00</published><updated>2022-01-06T20:32:20+01:00</updated><id>http://localhost:4000/NoteAuxGammes</id><content type="html" xml:base="http://localhost:4000/NoteAuxGammes.html"><![CDATA[<h1 id="une-note-cest-quoi-">Une note c’est quoi ?</h1>
 
 <p><em>Do Ré Mi Fa Sol La Si Do</em>,</p>
 
@@ -227,7 +281,9 @@ Sur une guitare, réfléchir en terme interval, c’est naturel.</p>
   <li>
     <p>Décaller une gamme d’un demi ton revient à descendre d’une frette sur sa guitare.</p>
   </li>
-</ul>]]></content><author><name>Chafik Lekouara</name></author><category term="cours" /><summary type="html"><![CDATA[Que ce cache il derrière une note ?]]></summary></entry><entry><title type="html">Lancement de LoloupProd !</title><link href="http://localhost:4000/LancementLoloup.html" rel="alternate" type="text/html" title="Lancement de LoloupProd !" /><published>2022-01-01T20:32:20+01:00</published><updated>2022-01-01T20:32:20+01:00</updated><id>http://localhost:4000/LancementLoloup</id><content type="html" xml:base="http://localhost:4000/LancementLoloup.html"><![CDATA[<h1 id="lancement-de-loloup-prod">Lancement de Loloup prod</h1>
+</ul>]]></content><author><name>Chafik Lekouara</name></author><category term="cours" /><summary type="html"><![CDATA[Que ce cache il derrière une note ?]]></summary></entry><entry><title type="html">Lancement de LoloupProd !</title><link href="http://localhost:4000/LancementLoloup.html" rel="alternate" type="text/html" title="Lancement de LoloupProd !" /><published>2022-01-01T20:32:20+01:00</published><updated>2022-01-01T20:32:20+01:00</updated><id>http://localhost:4000/LancementLoloup</id><content type="html" xml:base="http://localhost:4000/LancementLoloup.html"><![CDATA[<h2 id="wohooo-">Wohooo !!</h2>
+
+<p><img src="../assets/img/posts/stock/Wolfy.png" alt="isolated" width="500" /></p>
 
 <p>Loloup prod c’est quoi ?
 Bah grand chose pour l’instant, mais à force de crier à la lune elle finira bien par descendre ?
@@ -240,4 +296,4 @@ Je partagerai ici cours, production, articles.</p>
 
 <p>Jam session, rencontres, cours, évènements…</p>
 
-<p>On y va ?</p>]]></content><author><name>Chafik Lekouara</name></author><category term="article" /><summary type="html"><![CDATA[Here we go]]></summary></entry></feed>
+<p><span class="SpecialInfo">On y va ? </span></p>]]></content><author><name>Chafik Lekouara</name></author><category term="article" /><summary type="html"><![CDATA[Here we go]]></summary></entry></feed>

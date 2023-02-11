@@ -11,8 +11,9 @@ author: Chafik Lekouara
 github:  
 mathjax: yes
 ---
+## Wohooo !!
 
-# Lancement de Loloup prod
+<img src="../assets/img/posts/stock/Wolfy.png" alt="isolated" width="500"/>
 
 Loloup prod c'est quoi ?
 Bah grand chose pour l'instant, mais à force de crier à la lune elle finira bien par descendre ?
@@ -25,4 +26,4 @@ Pour réunir mes productions mais aussi mettre en avant d'autres loloups.
 
 Jam session, rencontres, cours, évènements...
 
-On y va ?
+<span class="SpecialInfo">On y va ? </span>

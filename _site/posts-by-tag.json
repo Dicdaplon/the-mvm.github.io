@@ -3,16 +3,6 @@
 [   
       
   {
-  "tag" : "Cours",
-  "posts" : [
-      
-      "./ListUpgradeYourPlay.html"
-      
-    ]
-  } ,
-    
-      
-  {
   "tag" : "article",
   "posts" : [
       
@@ -26,17 +16,9 @@
   "tag" : "cours",
   "posts" : [
       
+      "./ListUpgradeYourPlay.html",
+      
       "./NoteAuxGammes.html"
-      
-    ]
-  } ,
-    
-      
-  {
-  "tag" : "cover",
-  "posts" : [
-      
-      "./CoverKrutb.html"
       
     ]
   } ,
@@ -55,20 +37,10 @@
     
       
   {
-  "tag" : "news",
+  "tag" : "science",
   "posts" : [
       
-      "./CoverKrutb.html"
-      
-    ]
-  } ,
-    
-      
-  {
-  "tag" : "vocal",
-  "posts" : [
-      
-      "./CoverKrutb.html"
+      "./NoteEtMath.html"
       
     ]
   } 

@@ -3,24 +3,25 @@ layout: post
 read_time: true
 show_date: true
 title:  5 façon d'améliorer votre jeu
-date:   2022-01-14 13:32:20 -0600
+date:   2023-01-08 13:32:20 -0600
 description: Bloqué dans votre progression ? Voici quelques astuces
 img: posts/stock/Guitar.png 
-tags: [Cours]
+tags: [cours]
 author: Chafik Lekouara
 github:  
 mathjax: yes
 ---
 ## Améliorer son jeu au quotidien ?
 Ça tourne en rond,
-Vous avez beau frotter votre manche de pleins de façons, il vous semble étrangement familier et ennuyeux.
 
+<img src="../assets/img/posts/FiveWayUpgrade/goingInCircle.jpg" alt="isolated" width="500"/>
+
+à force de frotter votre manche, vous vous demandez si vous n'avez pas atteint une forme de stérilité acoustique.
 Peut être que vous n'avez pas la bonne approche.
 
 ## Jouer en Jam !
 
-Évidement, on a tous notre instinct de taupe qui nous dis qu'on peut creuser notre trou tout seul.
-On s'enferme et on travaille, pas besoin d'aller s'embêter.
+Évidement, on a tous notre instinct de taupe qui nous dis qu'on peut creuser notre trou tous seul.
 
 En plus c'est une perte de temps.
 Les gens, l'organisation, les déplacements, les gens... alors qu'on peut utiliser ce temps pour s'entraîner plus longtemps !

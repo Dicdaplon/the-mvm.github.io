@@ -1,6 +1,6 @@
 # Site settings
-title: The Minimum Viable Model
-description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
+title: LoloupProd
+description: 'Make music go Wohouuuu' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://dicdaplon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -48,7 +48,7 @@ fbadmin: ar.maybach
 # Paginate
 paginate: 6
 paginate_path: 'page:num'
-words_per_minute: 200
+words_per_minute: 100
 
 # Comments
 comments: utteranc  #[disqus, utteranc]

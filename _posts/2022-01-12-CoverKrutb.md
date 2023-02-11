@@ -6,7 +6,7 @@ title:  Cover - KrutB
 date:   2023-01-28 13:32:20 -0600
 description: Une superbe collab 
 img: posts/stock/KrutBCover.png
-tags: [cover,music,vocal,news]
+tags: [music]
 author: Chafik Lekouara
 github:  
 mathjax: yes

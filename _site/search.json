@@ -3,11 +3,31 @@
     {
       "title"       : "Cover - KrutB",
       "category"    : "",
-      "tags"        : "cover, music, vocal, news",
+      "tags"        : "music",
       "url"         : "./CoverKrutb.html",
       "date"        : "2023-01-28 20:32:20 +0100",
       "description" : "Une superbe collab",
       "content"     : "Cover de KrutBPetite collaboration pour noël…"
+    } ,
+  
+    {
+      "title"       : "Note et matiques",
+      "category"    : "",
+      "tags"        : "science",
+      "url"         : "./NoteEtMath.html",
+      "date"        : "2023-01-16 20:32:20 +0100",
+      "description" : "Que ce cache il derrière une note ?",
+      "content"     : "Des notes aux mathJe vous propose de parler un peu physique.Déjà parce que c’est cool, ensuite parce que j’ai envie, et surtout parce que c’est moi qui décide.Alors on parle souvent de note de musique :Do, Ré, Mi … blablaOk mais physiquement c’est quoi ?C’est la variation d’une la pression sonore dans le temps.Une onde acoustique quoi.La vitesse à laquelle cette pression varie définis sa fréqence.Il ne s’agit donc pas de la puissance de la variation mais de la vitesse de variation.Ce truc là :$son(t)=\\sin(2*\\pi *f * t)$Cette petite équation définis à chaque instant la pression en fonction du temps et pour une fréquence données.Le graphique résultant de ca est celui-ci.Mais cette équation permet de donner la puissance de la pression en fonction du temps…Cela ne donne pas réellement d’informaiton sur la fréquence.Ce que nous voulons dans le son, c’est parler en fréquence, car c’est ce que nous manipulons avec nos instruments.$son(f)=?$Je vous passe les détails mais nous employons pour cela l’outil mathématique qu’est la transformé de fourier.$\\int_-\\infty^\\infty \\mathrm{e}^{-x}\\,\\mathrm{d}x$IciL’important ici ce n’est pas les math, mais ce que cela représente.Si vous avez déjà touché un Equalizer ou observé certaines visualtion du son (sur une chaîne FM ou un lecteur audio diver).Vous avez déjà du voir ca.L’important est de comprendre quel question nous posons ici :Quel fréquence est contenue dans un signal ?Autrement dit, quelle est la vitesse de variation par seconde ce signal ?Ces détous n’ont qu’un seul but, vous montrer que la question est plus complexe qu’il n’y parrait.Cela va amener à beaucoup de difficultées et ambiguité dans l’analyse du son.Mais beaucoup de ces ambuiguité peuvent être résolues par une bonne compréhension du phénomène initial.et le LA là dedans ?Ok, revenons aux notes.Nous avons l’habitude de demander la LA en musique.C’est choix arbitraire d’une référence pour accorder nos instrumentsNous ne sommes pas timbré…Ce qui est fondamental"
+    } ,
+  
+    {
+      "title"       : "5 façon d&#39;améliorer votre jeu",
+      "category"    : "",
+      "tags"        : "cours",
+      "url"         : "./ListUpgradeYourPlay.html",
+      "date"        : "2023-01-08 20:32:20 +0100",
+      "description" : "Bloqué dans votre progression ? Voici quelques astuces",
+      "content"     : "Améliorer son jeu au quotidien ?Ça tourne en rond,à force de frotter votre manche, vous vous demandez si vous n’avez pas atteint une forme de stérilité acoustique.Peut être que vous n’avez pas la bonne approche.Jouer en Jam !Évidement, on a tous notre instinct de taupe qui nous dis qu’on peut creuser notre trou tous seul.En plus c’est une perte de temps.Les gens, l’organisation, les déplacements, les gens… alors qu’on peut utiliser ce temps pour s’entraîner plus longtemps !Regarder des tutoriels et des cours…Oui oui…C’est des conneries, allez jouer avec des gens.La mise en situation vaut tout les tuto du monde.La question n’est pas de savoir ce que les gens ou les jams ont à vous apprendre.Mais est-ce que vous être sûr d’avoir vraiment cerné les points que vous avez à travailler ?En plus pourquoi croyez vous que les gens sont prêt à payer un abonnement à la salle alors qu’ils pourraient très bien faire ça seul ?Parce qu’ils sont lucide et auront de beaux mollet cet été.Sa guitare à porté de brasC’est assez simple, si votre est guitare est dans une housse rangé dans votre placard.C’est virtuellement la même chose que si elle était dans un garage sous clée à new york.Techniquement vous pouvez en jouer, dans les fait vous pouvez d’ore et déjà la considérer comme une relique vintage.Un instrument c’est à porté de bras et de regard.Exit les grosses sessions d’entrainement du dimanche matin.C’est quelque minutes volée par ci par là pendant votre pauses café qui feront vos progrès.Si il vous faut plus de 30s pour commencer à jouer,il vous faudra sûrement le même temps en année pour espérer progresser ;)Apprécier ou comprendre ? Les deux !Vous savez quel est la différence entre un publique entouhsiate et un passioné ?Leur façon de voir ce qu’ils ont devant eux.Ne pas vous arretez pas au “c’est joli”, prenez le reflexe de vous arrêter dès que vous entendez ou voyez quelque chose qui échappe à vos connaissance.Sans forcément toujours réussir à le reproduire, ce n’est pas parfois pas possible.Mais comprendre les coulisses fait partie de n’importe quel apprentissage.Poum tchacLe soucis de la grande majorité des guitariste est la rythmique.Pas simplement la justesse rytmique, mais la complexité et la compréhension.Apprendre à jouer de nouvelle gamme de plus en plus vite, c’est bien.Mais ça ne rend pas vos 4 temps plus groovy.La base de la musique sera toujours là rythmique.Faites des beats, jouez moins de notes, apprenez à clapper des rythmique spécifiques, prenez des cours avec un batteur.Faire une pauseParfois, rien n’y fait.Tout les guitaristes connaissaient ca.Peut être que que c’est simplement un manque de matière.La musique reste de l’expression, si vous tournez en rond dans votre musique, c’est peut être que vous tournez en rond dans votre vie. Euh… merci pour la dépression… Non, justement, peut être qu’il faut juste ne pas essayer à tout prix à écrire une nouvelle histoire lorsque vous n’avez dans le fond rien de nouveau à dire.Posez votre guitare quelque temps et faites d’autre choses, l’art nourrit l’art.Cuisinez, faites du dessins, de la photo.Ou simplement vivez de nouvelles choses, écoutez de nouveau sons, voyagez…"
     } ,
   
     {
@@ -17,17 +37,7 @@
       "url"         : "./MusicKeepWalking.html",
       "date"        : "2023-01-06 20:32:20 +0100",
       "description" : "Devil blues",
-      "content"     : "Devil bluesS’amuser avec la caméra :)"
-    } ,
-  
-    {
-      "title"       : "5 façon d&#39;améliorer votre jeu",
-      "category"    : "",
-      "tags"        : "Cours",
-      "url"         : "./ListUpgradeYourPlay.html",
-      "date"        : "2022-01-14 20:32:20 +0100",
-      "description" : "Bloqué dans votre progression ? Voici quelques astuces",
-      "content"     : "Améliorer son jeu au quotidien ?Ça tourne en rond,Vous avez beau frotter votre manche de pleins de façons, il vous semble étrangement familier et ennuyeux.Peut être que vous n’avez pas la bonne approche.Jouer en Jam !Évidement, on a tous notre instinct de taupe qui nous dis qu’on peut creuser notre trou tout seul.On s’enferme et on travaille, pas besoin d’aller s’embêter.En plus c’est une perte de temps.Les gens, l’organisation, les déplacements, les gens… alors qu’on peut utiliser ce temps pour s’entraîner plus longtemps !Regarder des tutoriels et des cours…Oui oui…C’est des conneries, allez jouer avec des gens.La mise en situation vaut tout les tuto du monde.La question n’est pas de savoir ce que les gens ou les jams ont à vous apprendre.Mais est-ce que vous être sûr d’avoir vraiment cerné les points que vous avez à travailler ?En plus pourquoi croyez vous que les gens sont prêt à payer un abonnement à la salle alors qu’ils pourraient très bien faire ça seul ?Parce qu’ils sont lucide et auront de beaux mollet cet été.Sa guitare à porté de brasC’est assez simple, si votre est guitare est dans une housse rangé dans votre placard.C’est virtuellement la même chose que si elle était dans un garage sous clée à new york.Techniquement vous pouvez en jouer, dans les fait vous pouvez d’ore et déjà la considérer comme une relique vintage.Un instrument c’est à porté de bras et de regard.Exit les grosses sessions d’entrainement du dimanche matin.C’est quelque minutes volée par ci par là pendant votre pauses café qui feront vos progrès.Si il vous faut plus de 30s pour commencer à jouer,il vous faudra sûrement le même temps en année pour espérer progresser ;)Apprécier ou comprendre ? Les deux !Vous savez quel est la différence entre un publique entouhsiate et un passioné ?Leur façon de voir ce qu’ils ont devant eux.Ne pas vous arretez pas au “c’est joli”, prenez le reflexe de vous arrêter dès que vous entendez ou voyez quelque chose qui échappe à vos connaissance.Sans forcément toujours réussir à le reproduire, ce n’est pas parfois pas possible.Mais comprendre les coulisses fait partie de n’importe quel apprentissage.Poum tchacLe soucis de la grande majorité des guitariste est la rythmique.Pas simplement la justesse rytmique, mais la complexité et la compréhension.Apprendre à jouer de nouvelle gamme de plus en plus vite, c’est bien.Mais ça ne rend pas vos 4 temps plus groovy.La base de la musique sera toujours là rythmique.Faites des beats, jouez moins de notes, apprenez à clapper des rythmique spécifiques, prenez des cours avec un batteur.Faire une pauseParfois, rien n’y fait.Tout les guitaristes connaissaient ca.Peut être que que c’est simplement un manque de matière.La musique reste de l’expression, si vous tournez en rond dans votre musique, c’est peut être que vous tournez en rond dans votre vie. Euh… merci pour la dépression… Non, justement, peut être qu’il faut juste ne pas essayer à tout prix à écrire une nouvelle histoire lorsque vous n’avez dans le fond rien de nouveau à dire.Posez votre guitare quelque temps et faites d’autre choses, l’art nourrit l’art.Cuisinez, faites du dessins, de la photo.Ou simplement vivez de nouvelles choses, écoutez de nouveau sons, voyagez…"
+      "content"     : "Devil bluesPetit blues, une occasion de ressortir l’harmonica et le Bottle Neck."
     } ,
   
     {
@@ -47,7 +57,7 @@
       "url"         : "./LancementLoloup.html",
       "date"        : "2022-01-01 20:32:20 +0100",
       "description" : "Here we go",
-      "content"     : "Lancement de Loloup prodLoloup prod c’est quoi ?Bah grand chose pour l’instant, mais à force de crier à la lune elle finira bien par descendre ?En attendant, c’est une base spatiale pour louveteaux spéciaux.Principalement basée sur la musique, l’improvisation et la création au sens large.Je partagerai ici cours, production, articles.Pour réunir mes productions mais aussi mettre en avant d’autres loloups.Jam session, rencontres, cours, évènements…On y va ?"
+      "content"     : "Wohooo !!Loloup prod c’est quoi ?Bah grand chose pour l’instant, mais à force de crier à la lune elle finira bien par descendre ?En attendant, c’est une base spatiale pour louveteaux spéciaux.Principalement basée sur la musique, l’improvisation et la création au sens large.Je partagerai ici cours, production, articles.Pour réunir mes productions mais aussi mettre en avant d’autres loloups.Jam session, rencontres, cours, évènements…On y va ?"
     } 
   
 ]
