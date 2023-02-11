@@ -6,10 +6,6 @@
   "tag" : "Cours",
   "posts" : [
       
-      "./GammeToAccord.html",
-      
-      "./NoteEtMath.html",
-      
       "./ListUpgradeYourPlay.html"
       
     ]
@@ -17,98 +13,62 @@
     
       
   {
-  "tag" : "Lesson",
+  "tag" : "article",
   "posts" : [
       
-      "./ListUpgradeYourPlay.html"
+      "./LancementLoloup.html"
       
     ]
   } ,
     
       
   {
-  "tag" : "artificial intelligence",
+  "tag" : "cours",
   "posts" : [
       
-      "./AI-and-intellectual-property.html",
-      
-      "./back-to-basics.html"
+      "./NoteAuxGammes.html"
       
     ]
   } ,
     
       
   {
-  "tag" : "coding",
+  "tag" : "cover",
   "posts" : [
       
-      "./NewFile.html",
-      
-      "./NewFile.html"
+      "./CoverKrutb.html"
       
     ]
   } ,
     
       
   {
-  "tag" : "copyright",
+  "tag" : "music",
   "posts" : [
       
-      "./AI-and-intellectual-property.html"
+      "./CoverKrutb.html",
+      
+      "./MusicKeepWalking.html"
       
     ]
   } ,
     
       
   {
-  "tag" : "creativity",
+  "tag" : "news",
   "posts" : [
       
-      "./AI-and-intellectual-property.html"
+      "./CoverKrutb.html"
       
     ]
   } ,
     
       
   {
-  "tag" : "lesson",
+  "tag" : "vocal",
   "posts" : [
       
-      "./GammeToAccord.html",
-      
-      "./NoteEtMath.html"
-      
-    ]
-  } ,
-    
-      
-  {
-  "tag" : "machine learning",
-  "posts" : [
-      
-      "./NewFile.html",
-      
-      "./NewFile.html",
-      
-      "./AI-and-intellectual-property.html",
-      
-      "./back-to-basics.html"
-      
-    ]
-  } ,
-    
-      
-  {
-  "tag" : "neural networks",
-  "posts" : [
-      
-      "./NewFile.html",
-      
-      "./NewFile.html",
-      
-      "./AI-and-intellectual-property.html",
-      
-      "./back-to-basics.html"
+      "./CoverKrutb.html"
       
     ]
   } 
