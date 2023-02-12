@@ -63,3 +63,39 @@ margin-bottom: 30px;
   background-size:500px;
 
         }
+
+        .container2 {
+          display: flex;
+          width: 750px;
+          height: 350px;
+          border: 2px solid rgba(255, 0, 0, 0);
+        }
+        
+        .container2 img {
+          max-width: 48%;
+        }
+
+
+        .container3 {
+          display: flex;
+          width: 750px;
+          height: 350px;
+          border: 2px solid rgba(31, 3, 3, 0);
+        }
+        
+        .container3 img {
+          max-width: 32%;
+          border: 2px solid rgba(255, 0, 0, 0);
+         
+        }
+
+        .container1 {
+          display: flex;
+          width: 750px;
+          height: 350px;
+          border: 2px solid rgba(255, 0, 0, 0);
+        }
+        
+        .container1 img {
+          max-width: 80%;
+        }

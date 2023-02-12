@@ -3,6 +3,19 @@
   
     
     <url>
+      <loc>http://localhost:4000/JamFourmiliere.html</loc>
+      
+        <lastmod>2023-02-10T20:32:20+01:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+      
+        <priority>0.5</priority></url>
+    
+  
+    
+    <url>
       <loc>http://localhost:4000/CoverKrutb.html</loc>
       
         <lastmod>2023-01-28T20:32:20+01:00</lastmod>
@@ -84,7 +97,7 @@
     <url>
       <loc>http://localhost:4000/404.html</loc>
       
-        <lastmod>2023-02-12T19:15:04+01:00</lastmod>
+        <lastmod>2023-02-13T00:22:26+01:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -99,7 +112,7 @@
     <url>
       <loc>http://localhost:4000/about.html</loc>
       
-        <lastmod>2023-02-12T19:15:04+01:00</lastmod>
+        <lastmod>2023-02-13T00:22:26+01:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -114,7 +127,7 @@
     <url>
       <loc>http://localhost:4000/all-posts.json</loc>
       
-        <lastmod>2023-02-12T19:15:04+01:00</lastmod>
+        <lastmod>2023-02-13T00:22:26+01:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -129,7 +142,7 @@
     <url>
       <loc>http://localhost:4000/archive.html</loc>
       
-        <lastmod>2023-02-12T19:15:04+01:00</lastmod>
+        <lastmod>2023-02-13T00:22:26+01:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -144,7 +157,7 @@
     <url>
       <loc>http://localhost:4000/</loc>
       
-        <lastmod>2023-02-12T19:15:04+01:00</lastmod>
+        <lastmod>2023-02-13T00:22:26+01:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -159,7 +172,7 @@
     <url>
       <loc>http://localhost:4000/ipfs-404.html</loc>
       
-        <lastmod>2023-02-12T19:15:04+01:00</lastmod>
+        <lastmod>2023-02-13T00:22:26+01:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -174,7 +187,7 @@
     <url>
       <loc>http://localhost:4000/posts-by-tag.json</loc>
       
-        <lastmod>2023-02-12T19:15:04+01:00</lastmod>
+        <lastmod>2023-02-13T00:22:26+01:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -189,7 +202,7 @@
     <url>
       <loc>http://localhost:4000/search.json</loc>
       
-        <lastmod>2023-02-12T19:15:04+01:00</lastmod>
+        <lastmod>2023-02-13T00:22:26+01:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -206,7 +219,7 @@
     <url>
       <loc>http://localhost:4000/tag.html</loc>
       
-        <lastmod>2023-02-12T19:15:04+01:00</lastmod>
+        <lastmod>2023-02-13T00:22:26+01:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -221,7 +234,7 @@
     <url>
       <loc>http://localhost:4000/tags.html</loc>
       
-        <lastmod>2023-02-12T19:15:04+01:00</lastmod>
+        <lastmod>2023-02-13T00:22:26+01:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -236,7 +249,22 @@
     <url>
       <loc>http://localhost:4000/feed.xml</loc>
       
-        <lastmod>2023-02-12T19:15:04+01:00</lastmod>
+        <lastmod>2023-02-13T00:22:26+01:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/page2/</loc>
+      
+        <lastmod>2023-02-13T00:22:26+01:00</lastmod>
       
       
         <changefreq>daily</changefreq>
