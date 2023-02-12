@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-12T11:37:10+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">LoloupProd</title><subtitle>Make music go Wohouuuu</subtitle><author><name>Chafik Lekouara</name></author><entry><title type="html">Cover - KrutB</title><link href="http://localhost:4000/CoverKrutb.html" rel="alternate" type="text/html" title="Cover - KrutB" /><published>2023-01-28T20:32:20+01:00</published><updated>2023-01-28T20:32:20+01:00</updated><id>http://localhost:4000/CoverKrutb</id><content type="html" xml:base="http://localhost:4000/CoverKrutb.html"><![CDATA[<h2 id="cover-de-krutb">Cover de KrutB</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-12T16:37:57+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">LoloupProd</title><subtitle>Make music go Wohouuuu</subtitle><author><name>Chafik Lekouara</name></author><entry><title type="html">Cover - KrutB</title><link href="http://localhost:4000/CoverKrutb.html" rel="alternate" type="text/html" title="Cover - KrutB" /><published>2023-01-28T20:32:20+01:00</published><updated>2023-01-28T20:32:20+01:00</updated><id>http://localhost:4000/CoverKrutb</id><content type="html" xml:base="http://localhost:4000/CoverKrutb.html"><![CDATA[<h2 id="cover-de-krutb">Cover de KrutB</h2>
 <p>Petite collaboration pour noël…</p>
 
 <body>
@@ -58,7 +58,142 @@ C’est choix arbitraire d’une référence pour accorder nos instruments</p>
 
 <h2 id="nous-ne-sommes-pas-timbré">Nous ne sommes pas timbré…</h2>
 
-<h2 id="ce-qui-est-fondamental">Ce qui est fondamental</h2>]]></content><author><name>Chafik Lekouara</name></author><category term="science" /><summary type="html"><![CDATA[Que ce cache il derrière une note ?]]></summary></entry><entry><title type="html">5 façon d’améliorer votre jeu</title><link href="http://localhost:4000/ListUpgradeYourPlay.html" rel="alternate" type="text/html" title="5 façon d’améliorer votre jeu" /><published>2023-01-08T20:32:20+01:00</published><updated>2023-01-08T20:32:20+01:00</updated><id>http://localhost:4000/ListUpgradeYourPlay</id><content type="html" xml:base="http://localhost:4000/ListUpgradeYourPlay.html"><![CDATA[<h2 id="améliorer-son-jeu-au-quotidien-">Améliorer son jeu au quotidien ?</h2>
+<h2 id="ce-qui-est-fondamental">Ce qui est fondamental</h2>]]></content><author><name>Chafik Lekouara</name></author><category term="science" /><summary type="html"><![CDATA[Que ce cache il derrière une note ?]]></summary></entry><entry><title type="html">Des notes aux gammes</title><link href="http://localhost:4000/NoteAuxGammes.html" rel="alternate" type="text/html" title="Des notes aux gammes" /><published>2023-01-09T20:32:20+01:00</published><updated>2023-01-09T20:32:20+01:00</updated><id>http://localhost:4000/NoteAuxGammes</id><content type="html" xml:base="http://localhost:4000/NoteAuxGammes.html"><![CDATA[<h1 id="une-note-cest-quoi-">Une note c’est quoi ?</h1>
+
+<p><em>Do Ré Mi Fa Sol La Si Do</em>,</p>
+
+<p><img src="../assets/img/posts/stock/MancheDoMajeur.png" alt="isolated" width="600" /></p>
+
+<body>
+    <p class="Tabs">
+-0--------------- <br />
+--1--------------<br />
+---2-------------<br />
+---3-------------<br />
+----4------------<br />
+-----8-----------<br />
+      </p>
+  </body>
+
+<p>Une rengaine bien connue mais un poil obscure.
+Que se cachent il réellement derrière ce concept ?</p>
+
+<p>Sans même renterer dans détails <a href="../NoteEtMath.html">chiantifiques</a>…Que peut on tirer de cela ?</p>
+
+<h2 id="un-concept-qui-en-cache-un-autre">Un concept qui en cache un autre</h2>
+<p>Un Do c’est le départ d’un ensemble de notes qui vont de pairs.
+Ensemble selectionner pour avoir des changements harmonieux.
+Cela vient de la différence de hauteur entre le Do et la note suivante.
+Ainsi la gamme de Do nous donne non pas un ensemble de notes séparé mais plutôt comme un ensemble d’intervalle.</p>
+
+<p>En prenant l’ensemble des notes existantes.</p>
+
+<p><span style="color:lightblue">Do<span> 
+<span style="color:orange">Do#<span>
+<span style="color:lightblue">Ré<span>
+<span style="color:orange">Ré#<span>
+<span style="color:lightblue">Mi<span>
+<span style="color:lightblue">Fa<span>
+<span style="color:orange">Fa#<span>
+<span style="color:lightblue">Sol<span>
+<span style="color:orange">Sol#<span>
+<span style="color:lightblue">La<span>
+<span style="color:orange">La#<span>
+<span style="color:lightblue">Si<span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
+
+<p>La gamme de Do majeur est un sous ensemble de cette reserve.
+Maintenant que se passe il si au lieu de noter les notes, nous notions les écarts ?</p>
+
+<p>Pour :
+<span style="color:lightblue">Do<span> 
+<span style="color:orange">Do#<span>
+<span style="color:lightblue">Ré<span></span></span></span></span></span></span></p>
+
+<p>Il y a un <span style="color:grey">ton</span>  distance de 2 entre 
+<span style="color:lightblue">Do<span> 
+et 
+<span style="color:lightblue">Ré<span></span></span></span></span></p>
+
+<p><span style="color:lightblue">Do<span> 
+<span style="color:grey">1<span> 
+<span style="color:lightblue">Ré<span>
+<span style="color:grey">1<span> 
+<span style="color:lightblue">Mi<span>
+<span style="color:grey">0.5<span> 
+<span style="color:lightblue">Fa<span>
+<span style="color:grey">1<span> 
+<span style="color:lightblue">Sol<span>
+<span style="color:grey">1<span> 
+<span style="color:lightblue">La<span>
+<span style="color:grey">1<span> 
+<span style="color:lightblue">Si<span>
+<span style="color:grey">0.5<span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
+
+<body>
+  <p>
+<span class="Wolfy">On était censé simplifier le concept et tu rend ca plus encore plus chiant ?</span>
+  </p>
+  </body>
+
+<p>Attend 2s, ca a une utilisation extreêment pratique et terre à terre.</p>
+
+<p>Si l’on garde seulement ces espaces, nous obtenons un intervalle.</p>
+
+<p><span style="color:grey">1<span> 
+<span style="color:grey">1<span> 
+<span style="color:grey">0.5<span> 
+<span style="color:grey">1<span> 
+<span style="color:grey">1<span> 
+<span style="color:grey">1<span> 
+<span style="color:grey">0.5</span></span></span></span></span></span></span></span></span></span></span></span></span></p>
+
+<p>Il nous suffirait alors de donner la note de départ (Do) pour construire notre gamme.</p>
+
+<h2 id="les-intervalles-">Les intervalles :</h2>
+
+<p>Ce que nous venons de définir, c’est un intervalle
+Au lieu d’avoir la gamme de Do majeur, nous venons de décrire la Gamme majeur au sens large.
+Il ne nous manque plus qu’une référence de départ et nous pouvons alors décrire tout la gamme de Do majeur simplement.</p>
+
+<p>Pourquoi car réfléchir comme ca ?
+Car toute les gammes utilisant cet interval auront la même sonorité mais seront plus ou moins aigue selon la note de départ.</p>
+
+<p><a href="../assets/audio/CmajorKey.mp3"><span class="SpecialInfo">[Do Majeur]</span></a></p>
+
+<p><a href="../assets/audio/CdmajorKey.mp3"><span class="SpecialInfo">[Do# Majeur]</span></a></p>
+
+<p>Maintenant comparons 2 gamme de Do avec des interval différents :</p>
+
+<p><a href="../assets/audio/CmajorKey.mp3"><span class="SpecialInfo">[Do Majeur]</span></a></p>
+
+<p><a href="../assets/audio/AminorKey.mp3"><span class="SpecialInfo">[La Mineur]</span></a></p>
+
+<h2 id="et-à-part-sastiquer-le-manche--">Et à part s’astiquer le manche  ?</h2>
+
+<p>Bah justement c’est le but.
+Sur une guitare, réfléchir en terme interval, c’est naturel.</p>
+
+<p><span class="SpecialInfo">Do majeur ?</span></p>
+
+<p><span class="SpecialInfo">Do# majeur ? </span></p>
+
+<p><em>On décalle tout vers le bas !</em></p>
+
+<p>Alors n’apprenez pas des gammes, apprenez des intervales et des méthodes pour retrouver la fondamentale.</p>
+
+<h2 id="à-retenir-">à retenir :</h2>
+
+<ul>
+  <li>
+    <p>Les notes n’ont de sens qu’au sain d’une gamme</p>
+  </li>
+  <li>
+    <p>Une gamme est un ensemble d’intervale avec une fondamentale de référence</p>
+  </li>
+  <li>
+    <p>Décaller une gamme d’un demi ton revient à descendre d’une frette sur sa guitare.</p>
+  </li>
+</ul>]]></content><author><name>Chafik Lekouara</name></author><category term="cours" /><summary type="html"><![CDATA[Que ce cache il derrière une note ?]]></summary></entry><entry><title type="html">5 façon d’améliorer votre jeu</title><link href="http://localhost:4000/ListUpgradeYourPlay.html" rel="alternate" type="text/html" title="5 façon d’améliorer votre jeu" /><published>2023-01-08T20:32:20+01:00</published><updated>2023-01-08T20:32:20+01:00</updated><id>http://localhost:4000/ListUpgradeYourPlay</id><content type="html" xml:base="http://localhost:4000/ListUpgradeYourPlay.html"><![CDATA[<h2 id="améliorer-son-jeu-au-quotidien-">Améliorer son jeu au quotidien ?</h2>
 <p>Ça tourne en rond,</p>
 
 <p><img src="../assets/img/posts/FiveWayUpgrade/goingInCircle.jpg" alt="isolated" width="500" /></p>
@@ -141,147 +276,7 @@ Ou simplement vivez de nouvelles choses, écoutez de nouveau sons, voyagez…</p
 <p class="Youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1WgpEe_BhPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 </p>
-  </body>]]></content><author><name>Chafik Lekouara</name></author><category term="music" /><summary type="html"><![CDATA[Devil blues]]></summary></entry><entry><title type="html">Des notes aux gammes</title><link href="http://localhost:4000/NoteAuxGammes.html" rel="alternate" type="text/html" title="Des notes aux gammes" /><published>2022-01-06T20:32:20+01:00</published><updated>2022-01-06T20:32:20+01:00</updated><id>http://localhost:4000/NoteAuxGammes</id><content type="html" xml:base="http://localhost:4000/NoteAuxGammes.html"><![CDATA[<h1 id="une-note-cest-quoi-">Une note c’est quoi ?</h1>
-
-<p><em>Do Ré Mi Fa Sol La Si Do</em>,</p>
-
-<body>
-      <p class="GammeC">
-      </p>
-  </body>
-
-<body>
-    <p class="Tabs">
--0--------------- <br />
---1--------------<br />
----2-------------<br />
----3-------------<br />
-----4------------<br />
------8-----------<br />
-      </p>
-  </body>
-
-<p>Une rengaine bien connue mais un poil obscure.
-Que se cachent il réellement derrière ce concept ?</p>
-
-<p>Sans même renterer dans détails <a href="2023-01-25-NoteEtMath.md">chiantifiques</a>…Que peut on tirer de cela ?</p>
-
-<h2 id="un-concept-qui-en-cache-un-autre">Un concept qui en cache un autre</h2>
-<p>Un Do c’est le départ d’un ensemble de notes qui vont de pairs.
-Ensemble selectionner pour avoir des changements harmonieux.
-Cela vient de la différence de hauteur entre le Do et la note suivante.
-Ainsi la gamme de Do nous donne non pas un ensemble de notes séparé mais plutôt comme un ensemble d’intervalle.</p>
-
-<p>En prenant l’ensemble des notes existantes.</p>
-
-<p><span style="color:lightblue">Do<span> 
-<span style="color:orange">Do#<span>
-<span style="color:lightblue">Ré<span>
-<span style="color:orange">Ré#<span>
-<span style="color:lightblue">Mi<span>
-<span style="color:lightblue">Fa<span>
-<span style="color:orange">Fa#<span>
-<span style="color:lightblue">Sol<span>
-<span style="color:orange">Sol#<span>
-<span style="color:lightblue">La<span>
-<span style="color:orange">La#<span>
-<span style="color:lightblue">Si<span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
-
-<p>La gamme de Do majeur est un sous ensemble de cette reserve.
-Maintenant que se passe il si au lieu de noter les notes, nous notions les écarts ?</p>
-
-<p>Pour :
-<span style="color:lightblue">Do<span> 
-<span style="color:orange">Do#<span>
-<span style="color:lightblue">Ré<span></span></span></span></span></span></span></p>
-
-<p>Il y a un <span style="color:grey">ton</span>  distance de 2 entre 
-<span style="color:lightblue">Do<span> 
-et 
-<span style="color:lightblue">Ré<span></span></span></span></span></p>
-
-<p><span style="color:lightblue">Do<span> 
-<span style="color:grey">1<span> 
-<span style="color:lightblue">Ré<span>
-<span style="color:grey">1<span> 
-<span style="color:lightblue">Mi<span>
-<span style="color:grey">0.5<span> 
-<span style="color:lightblue">Fa<span>
-<span style="color:grey">1<span> 
-<span style="color:lightblue">Sol<span>
-<span style="color:grey">1<span> 
-<span style="color:lightblue">La<span>
-<span style="color:grey">1<span> 
-<span style="color:lightblue">Si<span>
-<span style="color:grey">0.5<span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
-
-<body>
-  <p>
-<span class="Wolfy">On était censé simplifier le concept et tu rend ca plus encore plus chiant ?</span>
-  &lt;/br&gt;
-  </p>
-  </body>
-
-<p>Attend 2s, ca a une utilisation extreêment pratique et terre à terre.</p>
-
-<p>Si l’on garde seulement ces espaces, nous obtenons un intervalle.</p>
-
-<p><span style="color:grey">1<span> 
-<span style="color:grey">1<span> 
-<span style="color:grey">0.5<span> 
-<span style="color:grey">1<span> 
-<span style="color:grey">1<span> 
-<span style="color:grey">1<span> 
-<span style="color:grey">0.5</span></span></span></span></span></span></span></span></span></span></span></span></span></p>
-
-<p>Il nous suffirait alors de donner la note de départ (Do) pour construire notre gamme.</p>
-
-<h2 id="les-intervalles-">Les intervalles :</h2>
-
-<p>Ce que nous venons de définir, c’est un intervalle
-Au lieu d’avoir la gamme de Do majeur, nous venons de décrire la Gamme majeur au sens large.
-Il ne nous manque plus qu’une référence de départ et nous pouvons alors décrire tout la gamme de Do majeur simplement.
-<a href="../assets/audio/DoMajeur.mp3">truc</a>.</p>
-
-<p>Pourquoi car réfléchir comme ca ?
-Car toute les gammes utilisant cet interval auront la même sonorité mais seront plus ou moins aigue selon la note de départ.</p>
-
-<p><span class="SpecialInfo">[Do Majeur]</span></p>
-
-<p><span class="SpecialInfo">[Ré# Majeur]</span></p>
-
-<p>Maintenant comparons 2 gamme de Do avec des interval différents :</p>
-
-<p><span class="SpecialInfo">[Do Majeur]</span></p>
-
-<p><span class="SpecialInfo">[Do Mineur]</span></p>
-
-<h2 id="et-à-part-sastiquer-le-manche--">Et à part s’astiquer le manche  ?</h2>
-
-<p>Bah justement c’est le but.
-Sur une guitare, réfléchir en terme interval, c’est naturel.</p>
-
-<p><span class="SpecialInfo">Do majeur ?</span></p>
-
-<p><span class="SpecialInfo">Do# majeur ? </span></p>
-
-<p><em>On décalle tout vers le bas !</em></p>
-
-<p>Alors n’apprenez pas des gammes, apprenez des intervales et des méthodes pour retrouver la fondamentale.</p>
-
-<h2 id="à-retenir-">à retenir :</h2>
-
-<ul>
-  <li>
-    <p>Les notes n’ont de sens qu’au sain d’une gamme</p>
-  </li>
-  <li>
-    <p>Une gamme est un ensemble d’intervale avec une fondamentale de référence</p>
-  </li>
-  <li>
-    <p>Décaller une gamme d’un demi ton revient à descendre d’une frette sur sa guitare.</p>
-  </li>
-</ul>]]></content><author><name>Chafik Lekouara</name></author><category term="cours" /><summary type="html"><![CDATA[Que ce cache il derrière une note ?]]></summary></entry><entry><title type="html">Lancement de LoloupProd !</title><link href="http://localhost:4000/LancementLoloup.html" rel="alternate" type="text/html" title="Lancement de LoloupProd !" /><published>2022-01-01T20:32:20+01:00</published><updated>2022-01-01T20:32:20+01:00</updated><id>http://localhost:4000/LancementLoloup</id><content type="html" xml:base="http://localhost:4000/LancementLoloup.html"><![CDATA[<h2 id="wohooo-">Wohooo !!</h2>
+  </body>]]></content><author><name>Chafik Lekouara</name></author><category term="music" /><summary type="html"><![CDATA[Devil blues]]></summary></entry><entry><title type="html">Lancement de LoloupProd !</title><link href="http://localhost:4000/LancementLoloup.html" rel="alternate" type="text/html" title="Lancement de LoloupProd !" /><published>2022-01-01T20:32:20+01:00</published><updated>2022-01-01T20:32:20+01:00</updated><id>http://localhost:4000/LancementLoloup</id><content type="html" xml:base="http://localhost:4000/LancementLoloup.html"><![CDATA[<h2 id="wohooo-">Wohooo !!</h2>
 
 <p><img src="../assets/img/posts/stock/Wolfy.png" alt="isolated" width="500" /></p>
 

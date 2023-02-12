@@ -3,7 +3,7 @@ layout: post
 read_time: true
 show_date: true
 title:  Des notes aux gammes
-date:   2022-01-6 13:32:20 -0600
+date:   2023-01-09 13:32:20 -0600
 description: Que ce cache il derrière une note ?
 img: posts/stock/Guitar.png 
 tags: [cours]
@@ -15,10 +15,8 @@ mathjax: yes
 
 _Do Ré Mi Fa Sol La Si Do_,
 
-  <body>
-      <p class="GammeC">
-      </p>
-  </body>
+<img src="../assets/img/posts/stock/MancheDoMajeur.png" alt="isolated" width="600"/>
+
 
   <body>
     <p class="Tabs">
@@ -36,7 +34,7 @@ _Do Ré Mi Fa Sol La Si Do_,
 Une rengaine bien connue mais un poil obscure.
 Que se cachent il réellement derrière ce concept ?
 
-Sans même renterer dans détails [chiantifiques](2023-01-25-NoteEtMath.md)...Que peut on tirer de cela ?
+Sans même renterer dans détails [chiantifiques](../NoteEtMath.html)...Que peut on tirer de cela ?
 
 
 ## Un concept qui en cache un autre
@@ -91,7 +89,6 @@ et
   <body>
   <p>
 <span class="Wolfy">On était censé simplifier le concept et tu rend ca plus encore plus chiant ?</span>
-  </br>
   </p>
   </body>
 
@@ -115,21 +112,20 @@ Il nous suffirait alors de donner la note de départ (Do) pour construire notre 
 Ce que nous venons de définir, c'est un intervalle
 Au lieu d'avoir la gamme de Do majeur, nous venons de décrire la Gamme majeur au sens large.
 Il ne nous manque plus qu'une référence de départ et nous pouvons alors décrire tout la gamme de Do majeur simplement.
-[truc](../assets/audio/DoMajeur.mp3).
 
 Pourquoi car réfléchir comme ca ?
 Car toute les gammes utilisant cet interval auront la même sonorité mais seront plus ou moins aigue selon la note de départ.
 
 
-<span class="SpecialInfo">[Do Majeur]</span>
+[<span class="SpecialInfo">[Do Majeur]</span>](../assets/audio/CmajorKey.mp3)
 
-<span class="SpecialInfo">[Ré# Majeur]</span>
+[<span class="SpecialInfo">[Do# Majeur]</span>](../assets/audio/CdmajorKey.mp3)
 
 Maintenant comparons 2 gamme de Do avec des interval différents :
 
-<span class="SpecialInfo">[Do Majeur]</span>
+[<span class="SpecialInfo">[Do Majeur]</span>](../assets/audio/CmajorKey.mp3)
 
-<span class="SpecialInfo">[Do Mineur]</span>
+[<span class="SpecialInfo">[La Mineur]</span>](../assets/audio/AminorKey.mp3)
 
 ## Et à part s'astiquer le manche  ?
 
