@@ -2,12 +2,12 @@
 
 .Wolfy::before{
 content: "";
-background-color: rgba(227, 35, 21, 0.533);
+background-color: rgba(221, 66, 54, 0.84);
 background-image: url("../img/posts/stock/Wolfy.svg") ;
 background-size: cover;
 border-radius: 0.5em;
-height: 100px;
-width: 100px;
+height: 70px;
+width: 70px;
 display: inline-block;
 float: left;
 margin-right: 30px;
@@ -17,11 +17,16 @@ margin-bottom: 30px;
 .Wolfy{
   font-style: italic;
   font-weight: bold;
-  color:rgb(135, 38, 38) ;
+  font-size: 16pt;
+  margin-right: 30%;
+  color:rgb(154, 50, 50) ;
 }
 
 .SpecialInfo{
+  display: flex;
   font-weight: bolder;
+  font-size: 16pt;
+  margin-left: 30%;
   color:rgb(141, 134, 5) ;
 
 }
