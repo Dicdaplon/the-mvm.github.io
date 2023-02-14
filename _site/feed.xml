@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-15T00:07:51+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">LoloupProd</title><subtitle>Make music go Wohouuuu</subtitle><author><name>Chafik Lekouara</name></author><entry><title type="html">Jam de la fourmilière</title><link href="http://localhost:4000/JamFourmiliere.html" rel="alternate" type="text/html" title="Jam de la fourmilière" /><published>2023-02-10T20:32:20+01:00</published><updated>2023-02-10T20:32:20+01:00</updated><id>http://localhost:4000/JamFourmiliere</id><content type="html" xml:base="http://localhost:4000/JamFourmiliere.html"><![CDATA[<h2 id="3-ème-edition-de-la-jam-de-la-fourmilière">3 ème edition de la jam de la fourmilière</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-15T00:42:40+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">LoloupProd</title><subtitle>Make music go Wohouuuu</subtitle><author><name>Chafik Lekouara</name></author><entry><title type="html">Jam de la fourmilière</title><link href="http://localhost:4000/JamFourmiliere.html" rel="alternate" type="text/html" title="Jam de la fourmilière" /><published>2023-02-10T20:32:20+01:00</published><updated>2023-02-10T20:32:20+01:00</updated><id>http://localhost:4000/JamFourmiliere</id><content type="html" xml:base="http://localhost:4000/JamFourmiliere.html"><![CDATA[<h2 id="3-ème-edition-de-la-jam-de-la-fourmilière">3 ème edition de la jam de la fourmilière</h2>
 
 <p>Je suis toujours aussi heureux de vous retrouver dans cette jam qui est de toute beauuuutée.</p>
 
@@ -114,248 +114,87 @@ Gratouillez bien, pianotez bien et gazouillez avec entrain.</p>
 <p class="Youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wIYfi7gW60k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 </p>
-  </body>]]></content><author><name>Chafik Lekouara</name></author><category term="music" /><summary type="html"><![CDATA[Une superbe collab]]></summary></entry><entry><title type="html">Note et matiques</title><link href="http://localhost:4000/NoteEtMath.html" rel="alternate" type="text/html" title="Note et matiques" /><published>2023-01-16T20:32:20+01:00</published><updated>2023-01-16T20:32:20+01:00</updated><id>http://localhost:4000/NoteEtMath</id><content type="html" xml:base="http://localhost:4000/NoteEtMath.html"><![CDATA[<h2 id="des-notes-aux-math">Des notes aux math</h2>
-<p>Je vous propose de parler un peu physique.
-Déjà parce que c’est cool, ensuite parce que j’ai envie, et surtout parce que c’est moi qui décide.</p>
+  </body>]]></content><author><name>Chafik Lekouara</name></author><category term="music" /><summary type="html"><![CDATA[Une superbe collab]]></summary></entry><entry><title type="html">5 façon d’améliorer votre jeu</title><link href="http://localhost:4000/ListUpgradeYourPlay.html" rel="alternate" type="text/html" title="5 façon d’améliorer votre jeu" /><published>2023-01-08T20:32:20+01:00</published><updated>2023-01-08T20:32:20+01:00</updated><id>http://localhost:4000/ListUpgradeYourPlay</id><content type="html" xml:base="http://localhost:4000/ListUpgradeYourPlay.html"><![CDATA[<h2 id="améliorer-son-jeu-au-quotidien-">Améliorer son jeu au quotidien ?</h2>
+<p>Ça tourne en rond,
+à force de frotter votre manche, vous vous demandez si vous n’avez pas atteint une forme de stérilité acoustique.</p>
 
-<p>Alors on parle souvent de note de musique :
-Do, Ré, Mi … blabla
-Ok mais physiquement c’est quoi ?
-C’est la variation d’une la pression sonore dans le temps.
-Une onde acoustique quoi.</p>
-
-<p>La vitesse à laquelle cette pression varie définis sa fréqence.
-Il ne s’agit donc pas de la puissance de la variation mais de la vitesse de variation.</p>
-
-<p>Ce truc là :</p>
-
-<p>$son(t)=\sin(2*\pi *f * t)$
-Cette petite équation définis à chaque instant la pression en fonction du temps et pour une fréquence données.
-Le graphique résultant de ca est celui-ci.</p>
-
-<p>Mais cette équation permet de donner la puissance de la pression en fonction du temps…
-Cela ne donne pas réellement d’informaiton sur la fréquence.</p>
-
-<p>Ce que nous voulons dans le son, c’est parler en fréquence, car c’est ce que nous manipulons avec nos instruments.</p>
-
-<p>$son(f)=?$</p>
-
-<p>Je vous passe les détails mais nous employons pour cela l’outil mathématique qu’est la transformé de fourier.</p>
-
-<p>$\int_-\infty^\infty \mathrm{e}^{-x}\,\mathrm{d}x$
-Ici</p>
-
-<p>L’important ici ce n’est pas les math, mais ce que cela représente.
-Si vous avez déjà touché un Equalizer ou observé certaines visualtion du son (sur une chaîne FM ou un lecteur audio diver).</p>
-
-<p>Vous avez déjà du voir ca.</p>
-
-<p>L’important est de comprendre quel question nous posons ici :
-Quel fréquence est contenue dans un signal ?
-Autrement dit, quelle est la vitesse de variation par seconde ce signal ?</p>
-
-<p>Ces détous n’ont qu’un seul but, vous montrer que la question est plus complexe qu’il n’y parrait.
-Cela va amener à beaucoup de difficultées et ambiguité dans l’analyse du son.</p>
-
-<p>Mais beaucoup de ces ambuiguité peuvent être résolues par une bonne compréhension du phénomène initial.</p>
-
-<h2 id="et-le-la-là-dedans-">et le LA là dedans ?</h2>
-
-<p>Ok, revenons aux notes.
-Nous avons l’habitude de demander la LA en musique.
-C’est choix arbitraire d’une référence pour accorder nos instruments</p>
-
-<h2 id="nous-ne-sommes-pas-timbré">Nous ne sommes pas timbré…</h2>
-
-<h2 id="ce-qui-est-fondamental">Ce qui est fondamental</h2>]]></content><author><name>Chafik Lekouara</name></author><category term="science" /><summary type="html"><![CDATA[Que ce cache il derrière une note ?]]></summary></entry><entry><title type="html">Des notes aux gammes</title><link href="http://localhost:4000/NoteAuxGammes.html" rel="alternate" type="text/html" title="Des notes aux gammes" /><published>2023-01-09T20:32:20+01:00</published><updated>2023-01-09T20:32:20+01:00</updated><id>http://localhost:4000/NoteAuxGammes</id><content type="html" xml:base="http://localhost:4000/NoteAuxGammes.html"><![CDATA[<h1 id="une-note-cest-quoi-">Une note c’est quoi ?</h1>
-
-<p><em>Do Ré Mi Fa Sol La Si Do</em>,</p>
-
-<p><img src="../assets/img/posts/stock/MancheDoMajeur.png" alt="isolated" width="600" /></p>
-
-<body>
-    <p class="Tabs">
--0--------------- <br />
---1--------------<br />
----2-------------<br />
----3-------------<br />
-----4------------<br />
------8-----------<br />
-      </p>
-  </body>
-
-<p>Une rengaine bien connue mais un poil obscure.
-Que se cachent il réellement derrière ce concept ?</p>
-
-<p>Sans même renterer dans détails <a href="../NoteEtMath.html">chiantifiques</a>…Que peut on tirer de cela ?</p>
-
-<h2 id="un-concept-qui-en-cache-un-autre">Un concept qui en cache un autre</h2>
-<p>Un Do c’est le départ d’un ensemble de notes qui vont de pairs.
-Ensemble selectionner pour avoir des changements harmonieux.
-Cela vient de la différence de hauteur entre le Do et la note suivante.
-Ainsi la gamme de Do nous donne non pas un ensemble de notes séparé mais plutôt comme un ensemble d’intervalle.</p>
-
-<p>En prenant l’ensemble des notes existantes.</p>
-
-<p><span style="color:lightblue">Do<span> 
-<span style="color:orange">Do#<span>
-<span style="color:lightblue">Ré<span>
-<span style="color:orange">Ré#<span>
-<span style="color:lightblue">Mi<span>
-<span style="color:lightblue">Fa<span>
-<span style="color:orange">Fa#<span>
-<span style="color:lightblue">Sol<span>
-<span style="color:orange">Sol#<span>
-<span style="color:lightblue">La<span>
-<span style="color:orange">La#<span>
-<span style="color:lightblue">Si<span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
-
-<p>La gamme de Do majeur est un sous ensemble de cette reserve.
-Maintenant que se passe il si au lieu de noter les notes, nous notions les écarts ?</p>
-
-<p>Pour :
-<span style="color:lightblue">Do<span> 
-<span style="color:orange">Do#<span>
-<span style="color:lightblue">Ré<span></span></span></span></span></span></span></p>
-
-<p>Il y a un <span style="color:grey">ton</span>  distance de 2 entre 
-<span style="color:lightblue">Do<span> 
-et 
-<span style="color:lightblue">Ré<span></span></span></span></span></p>
-
-<p><span style="color:lightblue">Do<span> 
-<span style="color:grey">1<span> 
-<span style="color:lightblue">Ré<span>
-<span style="color:grey">1<span> 
-<span style="color:lightblue">Mi<span>
-<span style="color:grey">0.5<span> 
-<span style="color:lightblue">Fa<span>
-<span style="color:grey">1<span> 
-<span style="color:lightblue">Sol<span>
-<span style="color:grey">1<span> 
-<span style="color:lightblue">La<span>
-<span style="color:grey">1<span> 
-<span style="color:lightblue">Si<span>
-<span style="color:grey">0.5<span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
-
-<body>
-  <p>
-<span class="Wolfy">On était censé simplifier le concept et tu rend ca plus encore plus chiant ?</span>
-  </p>
-  </body>
-
-<p>Attend 2s, ca a une utilisation extreêment pratique et terre à terre.</p>
-
-<p>Si l’on garde seulement ces espaces, nous obtenons un intervalle.</p>
-
-<p><span style="color:grey">1<span> 
-<span style="color:grey">1<span> 
-<span style="color:grey">0.5<span> 
-<span style="color:grey">1<span> 
-<span style="color:grey">1<span> 
-<span style="color:grey">1<span> 
-<span style="color:grey">0.5</span></span></span></span></span></span></span></span></span></span></span></span></span></p>
-
-<p>Il nous suffirait alors de donner la note de départ (Do) pour construire notre gamme.</p>
-
-<h2 id="les-intervalles-">Les intervalles :</h2>
-
-<p>Ce que nous venons de définir, c’est un intervalle
-Au lieu d’avoir la gamme de Do majeur, nous venons de décrire la Gamme majeur au sens large.
-Il ne nous manque plus qu’une référence de départ et nous pouvons alors décrire tout la gamme de Do majeur simplement.</p>
-
-<p>Pourquoi car réfléchir comme ca ?
-Car toute les gammes utilisant cet interval auront la même sonorité mais seront plus ou moins aigue selon la note de départ.</p>
-
-<p><a href="../assets/audio/CmajorKey.mp3"><span class="SpecialInfo">[Do Majeur]</span></a></p>
-
-<p><a href="../assets/audio/CdmajorKey.mp3"><span class="SpecialInfo">[Do# Majeur]</span></a></p>
-
-<p>Maintenant comparons 2 gamme de Do avec des interval différents :</p>
-
-<p><a href="../assets/audio/CmajorKey.mp3"><span class="SpecialInfo">[Do Majeur]</span></a></p>
-
-<p><a href="../assets/audio/AminorKey.mp3"><span class="SpecialInfo">[La Mineur]</span></a></p>
-
-<h2 id="et-à-part-sastiquer-le-manche--">Et à part s’astiquer le manche  ?</h2>
-
-<p>Bah justement c’est le but.
-Sur une guitare, réfléchir en terme interval, c’est naturel.</p>
-
-<p><span class="SpecialInfo">Do majeur ?</span></p>
-
-<p><span class="SpecialInfo">Do# majeur ? </span></p>
-
-<p><em>On décalle tout vers le bas !</em></p>
-
-<p>Alors n’apprenez pas des gammes, apprenez des intervales et des méthodes pour retrouver la fondamentale.</p>
-
-<h2 id="à-retenir-">à retenir :</h2>
-
-<ul>
-  <li>
-    <p>Les notes n’ont de sens qu’au sain d’une gamme</p>
-  </li>
-  <li>
-    <p>Une gamme est un ensemble d’intervale avec une fondamentale de référence</p>
-  </li>
-  <li>
-    <p>Décaller une gamme d’un demi ton revient à descendre d’une frette sur sa guitare.</p>
-  </li>
-</ul>]]></content><author><name>Chafik Lekouara</name></author><category term="cours" /><summary type="html"><![CDATA[Que ce cache il derrière une note ?]]></summary></entry><entry><title type="html">5 façon d’améliorer votre jeu</title><link href="http://localhost:4000/ListUpgradeYourPlay.html" rel="alternate" type="text/html" title="5 façon d’améliorer votre jeu" /><published>2023-01-08T20:32:20+01:00</published><updated>2023-01-08T20:32:20+01:00</updated><id>http://localhost:4000/ListUpgradeYourPlay</id><content type="html" xml:base="http://localhost:4000/ListUpgradeYourPlay.html"><![CDATA[<h2 id="améliorer-son-jeu-au-quotidien-">Améliorer son jeu au quotidien ?</h2>
-<p>Ça tourne en rond,</p>
-
-<p><img src="../assets/img/posts/FiveWayUpgrade/goingInCircle.jpg" alt="isolated" width="500" /></p>
-
-<p>à force de frotter votre manche, vous vous demandez si vous n’avez pas atteint une forme de stérilité acoustique.
+<p><img src="../assets/img/posts/FiveWayUpgrade/goingInCircle.jpg" alt="isolated" width="500" />
 Alors Gandalf pourra pas vous aider, il a beau être magicien sa puissance est limité sur ce genre de problème, le grand âge…</p>
 
-<p>Peut être que vous n’avez pas la bonne approche !</p>
+<p>Peut être que vous n’avez pas la bonne approche.</p>
+
+<hr />
 
 <h2 id="jouer-en-jam-">Jouer en Jam !</h2>
 
+<body>
+  <p>
+<span class="Wolfy">Oh que c'est surprenant...</span>
+  </p>
+  </body>
+
+<p><span class="SpecialInfo">Bah justement, réglons ca de suite.</span></p>
+
+<hr />
+
 <p>Évidement, on a tous notre instinct de taupe qui nous dis qu’on peut creuser notre trou tous seul.</p>
 
-<p>En plus c’est une perte de temps.
-Les gens, l’organisation, les gens, les déplacements, les gens… alors qu’on peut utiliser ce temps pour s’entraîner plus longtemps ! 
-Regarder des tutoriels et des cours…
-Oui oui…</p>
+<p>“En plus c’est une perte de temps.
+Les gens, l’organisation, les gens, les déplacements, les gens… alors qu’on peut utiliser ce temps pour s’entraîner plus longtemps !
+Regarder des tutoriels et des cours…”</p>
 
-<p>Arrêtez vos enfantillages, allez jouer avec des gens.
-La mise en situation vaut tout les tuto du monde.</p>
+<p><span class="SpecialInfo">Oui oui…</span></p>
 
-<p>La question n’est pas de savoir ce que les gens ou les jams ont à vous apprendre.
-Mais est-ce que vous être sûr d’avoir vraiment cerné les points que vous avez à travailler ?</p>
+<p>Arrêtez vos enfantillages, allez jouer avec des gens, pour d’autres gens.</p>
 
-<p>De plus, la magie de la jam est que vous apprenez autant d’un musicien bien meilleur que vous que d’un musicien débutant.
-Communiquer, tenir un rythme, rattraper des faiblesses rythmique, s’écouter, se faire mettre en difficulté :=)</p>
+<p>La magie de la jam est que vous apprenez autant quelque soit le niveau des musiciens et le votre.</p>
 
-<p>Pourquoi croyez vous que les gens sont prêt à payer un abonnement à la salle alors qu’ils pourraient très bien faire ça seul chez eux ?</p>
+<p>Communiquer, tenir un rythme, rattraper des faiblesses rythmiques (les siennes ou les autres), s’écouter, se faire mettre en difficulté :=) , être en retrait, lacher le lead, le prendre…</p>
+
+<p>C’est tout ca la jam ! Et c’est l’essence de la musique.</p>
+
+<p>De plus…</p>
+
+<p>Pourquoi croyez vous que les gens sont prêt à payer un abonnement à la salle alors qu’ils pourraient très bien faire ça seuls chez eux ?</p>
 
 <p><span class="SpecialInfo">Parce qu’ils sont lucides et auront de beaux mollets cet été. </span></p>
 
-<h2 id="sa-guitare-à-porté-de-bras">Sa guitare à porté de bras</h2>
+<hr />
 
+<h2 id="sa-guitare-à-porté-de-bras">Sa guitare à porté de bras</h2>
 <p>C’est assez simple, si votre guitare est dans une housse rangée dans votre placard.
 C’est virtuellement la même chose que si elle était dans un garage sous clée à new york.</p>
 
-<p>Techniquement vous pouvez en jouer, dans les faits vous pouvez d’ore et déjà la considérer comme une relique vintage.</p>
+<p>Techniquement vous pouvez en jouer, 
+dans les faits, vous pouvez d’ore et déjà la considérer comme une relique vintage.
+ prix de revente en moins.</p>
+
+<body>
+  <p>
+<span class="Wolfy">prix de revente en moins...</span>
+  </p>
+  </body>
 
 <p><img src="../assets/img/posts/FiveWayUpgrade/lazy.jpg" alt="isolated" width="400" /></p>
 
-<p>Un instrument c’est à porté de bras et de regards.
-Exit les grosses sessions d’entrainement du dimanche matin de 3h30.
+<p>Un instrument c’est à porté de bras et de regards.</p>
+
+<p>Exit les grosses sessions d’entrainement du dimanche matin de 3h30.
 C’est quelques minutes volées par ci par là qui vous feront vraiment progresser.</p>
 
 <p>Si il vous faut plus de 30s pour commencer à jouer,
-il vous faudra sûrement le même temps en année pour espérer progresser ;)</p>
+il vous faudra sûrement le même temps en année pour espérer progresser.</p>
 
-<h2 id="apprécier-ou-comprendre--les-deux-">Apprécier ou comprendre ? Les deux !</h2>
+<p><span class="SpecialInfo">Ne s’applique pas aux open-space… svp  </span></p>
 
-<p>Vous savez quel est la différence entre le publique et le créateur ?
-Leur façon de voir ce qu’ils ont devant eux.</p>
+<hr />
 
-<p>Prenez le reflexe de vous arrêter dès que vous entendez ou voyez quelque chose qui échappe à vos connaissances.</p>
+<h2 id="apprécier-ou-comprendre--les-trois">Apprécier ou comprendre ? Les trois</h2>
+
+<p>Vous savez quel est la différence entre le client et l’apprenti ?
+La façon d’appréhender et d’apprécier ce qu’ils ont devant eux.</p>
+
+<p>Prenez le réflexe de vous arrêter dès que vous entendez ou voyez quelque chose qui échappe à vos connaissances.</p>
 
 <body>
   <p>
@@ -365,11 +204,13 @@ Leur façon de voir ce qu’ils ont devant eux.</p>
 
 <p><span class="SpecialInfo">Je vais m’occuper des citations, ok ? </span></p>
 
-<p>Regarder depuis les coulisses, ca reste la principale méthode d’apprentissage de n’importe quel art.</p>
+<p>Regarder depuis les coulisses, ca reste la principale méthode d’apprentissage de n’importe quel art, artisanat, science.</p>
+
+<hr />
 
 <h2 id="poum-tchac">Poum tchac</h2>
-
-<p>Le soucis de la grande majorité des guitaristes (au delà d’êtres parfaitements imbuvables).
+<p>Le soucis de la grande majorité des guitaristes,
+<span class="SpecialInfo">(au delà d’êtres imbuvables) </span>
 C’est la rythmique !</p>
 
 <p>Pas simplement la justesse rytmique, mais la complexité et la compréhension de celle ci.</p>
@@ -381,18 +222,30 @@ Mais ça ne rend pas vos 4 temps plus groovy.</p>
 
 <p>Je peux vous dubstepper la tête à 400 Bpm, ca n’en fait pas un nouveau standards de jazz.</p>
 
-<p>La base de la musique sera toujours là rythmique.
-Faites des beats sur un pc, jouez moins de notes sur votre manche, apprenez à clapper des rythmiques spécifiques, prenez des cours avec un batteur.</p>
+<p>La base de la musique sera toujours la rythmique.
+<span class="SpecialInfo">(Ne pas confondre à l’arythmie qui est un sérieux problème, prenez soins de vous)</span></p>
+
+<p>Faites des beats sur un pc, jouez moins de notes sur votre manche, apprenez à clapper des rythmiques destructurées, prenez des cours avec un batteur.</p>
+
+<body>
+  <p>
+<span class="Wolfy">Ah nan pas ça !</span>
+  </p>
+  </body>
 
 <p><span class="SpecialInfo">Bref, percussionnez.</span></p>
+
+<hr />
 
 <h2 id="faire-une-pause">Faire une pause</h2>
 
 <p>Parfois, rien n’y fait.
-Tout les musiciens connaissaient ca.</p>
+C’est frustrants
+Tous connaissent ca,
+Les musiciens, les peintres, les artisans, les créateurs, même les bassistes.</p>
 
 <p>Peut être que que c’est simplement un manque de matière.
-La musique reste de l’expression, si vous tournez en rond dans votre musique, c’est peut être que vous tournez en rond dans votre vie.</p>
+La musique reste de l’expression, si vous tournez en rond dans votre musique, c’est peut être que vous tournez en rond en général.</p>
 
 <p><span class="Wolfy"> Euh… merci pour la dépression… </span></p>
 
@@ -402,8 +255,10 @@ La musique reste de l’expression, si vous tournez en rond dans votre musique, 
 Cuisinez, faites du dessin, de la photo…
 Ou simplement vivez de nouvelles choses, écoutez de nouveaux sons, voyagez…</p>
 
-<p>Bref, vous aurez peut être la chance de devenir quelqu’un de normal avec une vraie vie.
-Sinon, bah au moins à votre retour vous jouerez un peu moins mal.</p>]]></content><author><name>Chafik Lekouara</name></author><category term="cours" /><summary type="html"><![CDATA[Bloqué dans votre progression ? Voici quelques astuces]]></summary></entry><entry><title type="html">ImproSession - Keep Walking</title><link href="http://localhost:4000/MusicKeepWalking.html" rel="alternate" type="text/html" title="ImproSession - Keep Walking" /><published>2023-01-06T20:32:20+01:00</published><updated>2023-01-06T20:32:20+01:00</updated><id>http://localhost:4000/MusicKeepWalking</id><content type="html" xml:base="http://localhost:4000/MusicKeepWalking.html"><![CDATA[<h2 id="devil-blues">Devil blues</h2>
+<p>Vous aurez peut être la chance de devenir quelqu’un de normal avec une vraie vie.</p>
+
+<p><span class="Wolfy"> Attend c’était pas l’objectif de base ca ! </span>
+<span class="SpecialInfo">Bon bah sinon vous jouerez peut être un peu plus moins mal, c’est déjà ca…</span></p>]]></content><author><name>Chafik Lekouara</name></author><category term="cours" /><summary type="html"><![CDATA[Bloqué dans votre progression ? Voici quelques astuces]]></summary></entry><entry><title type="html">ImproSession - Keep Walking</title><link href="http://localhost:4000/MusicKeepWalking.html" rel="alternate" type="text/html" title="ImproSession - Keep Walking" /><published>2023-01-06T20:32:20+01:00</published><updated>2023-01-06T20:32:20+01:00</updated><id>http://localhost:4000/MusicKeepWalking</id><content type="html" xml:base="http://localhost:4000/MusicKeepWalking.html"><![CDATA[<h2 id="devil-blues">Devil blues</h2>
 <p>Petit blues, une occasion de ressortir l’harmonica et le Bottle Neck.</p>
 
 <body>
@@ -415,14 +270,25 @@ Sinon, bah au moins à votre retour vous jouerez un peu moins mal.</p>]]></conte
 <p><img src="../assets/img/posts/stock/Wolfy.png" alt="isolated" width="350" /></p>
 
 <h3 id="loloup-prod-cest-quoi-">Loloup prod c’est quoi ?</h3>
-<p>Bah grand chose pour l’instant, mais à force de crier à la lune elle finira bien par descendre ?
-En attendant, c’est une base spatiale pour louveteaux spéciaux.</p>
+<p>Bah grand chose pour l’instant, mais à force de crier à la lune elle finira bien par descendre.</p>
+
+<p>En attendant, c’est une base spatiale pour louveteaux spéciaux.</p>
 
 <p>Principalement basée sur la musique, l’improvisation et la création au sens large.
 Je partagerai ici cours, productions, articles.</p>
 
-<p>Mais aussi toute forme de création artistique, articles, évènements est la bienvenue.
-(Comme des gens plus doués que moi en design…)</p>
+<p>Mais aussi toute forme de création artistique, articles, évènements est la bienvenue.</p>
+
+<p><span class="SpecialInfo">Comme des gens plus doués que moi en design…</span></p>
+
+<body>
+  <p>
+<span class="Wolfy">Ah c'est pour ca que j'ai cette tête, ok !</span>
+  </p>
+  </body>
+<p><br /></p>
+
+<hr />
 
 <h3 id="tout-les-talents-sont-loup-able">Tout les talents sont loup-able.</h3>
 
@@ -432,11 +298,11 @@ Je partagerai ici cours, productions, articles.</p>
   </p>
   </body>
 
-<p>Pour réunir mes productions mais aussi mettre en avant d’autres Loloups dans un petit collectif qui, je l’éspère, sera à terme collaboratif.</p>
+<p>J’aimerais surtout mettre en avant d’autres Loloups dans un petit collectif qui, je l’éspère, sera à terme collaboratif.</p>
 
 <p>Jam sessions, rencontres, cours, évènements…
 Bon c’est basique, aussi accueillant que votre premier apaprtement mais bon…
-si vous en voulez, c’est aussi à vous, et ca, ca fait plaisir.</p>
+Comme ce dernier, si vous en voulez c’est aussi à vous, et ca, ca fait plaisir.</p>
 
 <body>
   <p>
@@ -444,7 +310,7 @@ si vous en voulez, c’est aussi à vous, et ca, ca fait plaisir.</p>
   </p>
   </body>
 
-<p>Euh,
-Il y a de quoi faire et l’été revient, les jams en plein aire aussi.</p>
+<p>Euh…
+Il y a de quoi faire et l’été revient, les jams en plein air aussi.</p>
 
 <p><span class="SpecialInfo">On y va ? </span></p>]]></content><author><name>Chafik Lekouara</name></author><category term="article" /><summary type="html"><![CDATA[Here we go]]></summary></entry></feed>

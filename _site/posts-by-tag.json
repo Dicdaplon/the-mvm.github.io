@@ -16,8 +16,6 @@
   "tag" : "cours",
   "posts" : [
       
-      "./NoteAuxGammes.html",
-      
       "./ListUpgradeYourPlay.html"
       
     ]
@@ -41,16 +39,6 @@
       "./CoverKrutb.html",
       
       "./MusicKeepWalking.html"
-      
-    ]
-  } ,
-    
-      
-  {
-  "tag" : "science",
-  "posts" : [
-      
-      "./NoteEtMath.html"
       
     ]
   } 
