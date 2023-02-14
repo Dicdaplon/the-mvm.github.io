@@ -16,7 +16,7 @@ mathjax: yes
 <img src="../assets/img/posts/stock/Wolfy.png" alt="isolated" width="350"/>
 
 ### Loloup prod c'est quoi ?
-Bah grand chose pour l'instant, mais à force de crier à la lune elle finira bien par descendre.
+Bah pas grand chose pour l'instant, mais à force de crier à la lune elle finira bien par descendre.
 
 En attendant, c'est une base spatiale pour louveteaux spéciaux.
 
